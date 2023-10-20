@@ -5,7 +5,7 @@ const themeButton = document.querySelector("#theme-btn");
 const deleteButton = document.querySelector("#delete-btn");
 
 let userText = null;
-const API_KEY = "PLACE YOUR API KEY HERE"
+const API_KEY = "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"
 const initialHeight = chatInput.scrollHeight;
 
 const default_String = "Pretend that you are a professor in Computer science and your an expert in C language topics. \nYou are helpful, creative and very friendly. \nYou will give the general description of what is asked through a paragraph.\n";
