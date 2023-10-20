@@ -1,5 +1,5 @@
-# C-Chatbot-OpenAI
-C Language Inquiries Chatbot Development using OpenAI
+# C++-Chatbot-OpenAI
+C++ Language Inquiries Chatbot Development 
 ========================================================
 
 To use this project, you need to get your own OpenAI API key.
